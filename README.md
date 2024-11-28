@@ -20,7 +20,7 @@ It is tailored for opportunities in **AI research** and **Algorithm engineering*
 
 ## 🛠️ How to Access
 
-- Download the resume directly: [resume.pdf]([./resume.pdf](https://github.com/6lyc/CV/blob/main/CV_Yuecheng%20Li.pdf))
+- Download the resume directly: [resume.pdf](https://github.com/6lyc/CV/blob/main/CV_Yuecheng%20Li.pdf)
 
 ## 🔗 Contact Me
 
